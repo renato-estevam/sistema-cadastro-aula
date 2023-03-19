@@ -6,3 +6,4 @@ Para rodar esse projeto por favor digite:
 ```
 sudo su apt-get install react
 ```
+:)
